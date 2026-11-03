@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+venv/
+env/
+.venv/
+.vscode/
+
+# Private biometric data
+faces/
+current_face.jpg
+
+# Temporary files
+*.log
+*.tmp
